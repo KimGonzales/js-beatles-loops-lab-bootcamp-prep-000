@@ -1,3 +1,5 @@
+require 'pry'
 function theBeatlesPlay (musicians, instruments) {
-  var x = []; 
+  var array = []; 
+  binding.pry
 }
